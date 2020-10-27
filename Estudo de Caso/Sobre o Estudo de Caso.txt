@@ -1,2 +1,3 @@
-Planejamento, análise, Modelagem e Implementação de Testes relacionados com um software capaz de gerenciar listas de compras via Web, Mobile e API. Utilizamos o Microsoft To Do como objeto de estudo para este cenário fictício.
-
+Planejamento, análise, Modelagem e Implementação de Testes relacionados com um software capaz de gerenciar listas de compras via Web, Mobile e API. 
+Utilizamos o Microsoft To Do como objeto de estudo para este cenário fictício.
+dividimos as tarefas até o momento em duas pastas: Planejamento e Análise
